@@ -33,3 +33,4 @@
 - Read some manga
 - Play videogames
 - etc...
+  <img align="right" alt="Anime" width="400" src="https://media.giphy.com/media/vXyIMuWbGTMtO/giphy.gif">
