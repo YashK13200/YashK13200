@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Frontend Project's.**
 
-- 👨‍💻 All of my projects are available at [https://yash-portfolio-website.netlify.app/](https://yash-portfolio-website.netlify.app/)
+- 👨‍💻 All of my projects are available at https://suprsendportfolio-yash-kumar-kashyaps-projects.vercel.app/
 
 - 💬 Ask me about **DSA and Frontend Technologies.**
 
 - 📫 How to reach me **yashkashyap131@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eMDKB7LPKjjcrN9ztx4xaw2en_HL45S7/view?usp=sharing](https://drive.google.com/file/d/1eMDKB7LPKjjcrN9ztx4xaw2en_HL45S7/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1rUVW1u62EwmTWxFp5AUblPSRGXRE6gey/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
