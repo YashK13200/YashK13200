@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at https://react-portfolio-teal-theta.vercel.app/
 
-- 💬 Ask me about **DSA and Frontend Technologies.**
+- 💬 Ask me about **DSA, AI, ML and Web Technologies.**
 
 - 📫 How to reach me **yashkashyap131@gmail.com**
 
