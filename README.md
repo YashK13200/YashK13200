@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashk13200&label=Profile%20views&color=0e75b6&style=flat" alt="yashk13200" /> </p>
 
-- 🌱 I’m currently learning **Libraries and Backend Technologies.**
+- 🌱 I’m currently learning **Libraries/Frameworks and Backend Technologies.**
 
-- 👯 I’m looking to collaborate on **Frontend Project's.**
+- 👯 I’m looking to collaborate on **MERN Project's.**
 
-- 👨‍💻 All of my projects are available at https://suprsendportfolio-yash-kumar-kashyaps-projects.vercel.app/
+- 👨‍💻 All of my projects are available at https://react-portfolio-teal-theta.vercel.app/
 
 - 💬 Ask me about **DSA and Frontend Technologies.**
 
 - 📫 How to reach me **yashkashyap131@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1rUVW1u62EwmTWxFp5AUblPSRGXRE6gey/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1A__4mN2vq7I5XDB28AufVUYC6EsF2xvu/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
