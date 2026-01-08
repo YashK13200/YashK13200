@@ -42,7 +42,9 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/2087fcee-8784-4682-b31f-a271c372842d" alt="Vercel" width="40" height="40"/> </a>
 </p>
+
 
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -61,13 +63,23 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
 </p>
-
+<!-- <h3 align="left">Workflow & Productivity:</h3>
+<p align="left">
+  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/claude/D97757" alt="claude" width="40" height="40"/> </a>
+  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/0f8d1755-b708-4673-81d7-578be4f890ec" alt="chatgpt" width="40" height="40"/> </a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/620c1866-9b7a-425c-8608-804060fe9239" alt="gemini" width="40" height="40"/> </a>
+  <a href="https://www.perplexity.ai/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/perplexity/00A3B0" alt="perplexity" width="40" height="40"/> </a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/4677f170-aabf-4524-bc63-61a6710b748e" alt="copilot" width="40" height="40"/> </a>
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/> </a>
+</p> -->
 </p>
 
 ## 📅 Hobbies
-- Solve programming problems at LeetCode, GeeksforGeeks..
-- Watch anime and TV shows
-- Read some manga
-- Play videogames
+
+ Solving programming problems at LeetCode, GeeksforGeeks..
+- Watch anime and Educational Podcast's.
+
+- Content Creation -> Pin Design
+
 - etc...
   <img align="right" alt="Anime" width="400" src="https://media.giphy.com/media/vXyIMuWbGTMtO/giphy.gif">
